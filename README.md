@@ -1,7 +1,7 @@
 # TestProcess
 - Test Process
 
-<img src="TestProcess.png" width="500" />
+<img src="TestProcess.png" width="900" />
 
 ## What we do in Bug Bash ?
 
