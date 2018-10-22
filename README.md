@@ -1,11 +1,10 @@
-# Test Process 
-- Test Process
-
+# Test Process
+Test Process
 <img src="TestProcess.png" width="900" />
 
-## why do we include tester in planning phase?
+## why do we include tester in planning phase
 ```
-Including tester in planning phase gives the context of project/user-story, understand the need of projects, scope of projects and start planning all test actively and help team to understand tester approach/scope/challenges before commiting in a sprint.
+Including tester in planning phase will help to understand about the project/user-story and plan there test activities early and share to team about there approach/scope/chaalenges. 
 ```
 
 ## What we do in Bug Bash ?
@@ -37,7 +36,7 @@ Test Plan helps team to analysing the high level scope, approach and risks on pr
 ## Why do team have Minimum Acceptance Criteria ?
 
  ```
-  Minimum Acceptance Criteria helps team to pre-check conditions that a software product must satisfy to be accepted before handing over a new build to QA .
+ 1. Minimum Acceptance Criteria helps team to pre-check conditions that a software product must satisfy to be accepted before handing over a new build to QA .
 ```
 ## Why do team have Impacted Area ?
 
