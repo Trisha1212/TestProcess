@@ -3,6 +3,11 @@
 
 <img src="TestProcess.png" width="900" />
 
+## why do we include tester in planning phase?
+```
+Including tester in planning phase gives the context of project/user-story, understand the need of projects, scope of projects and start planning all test actively and help team to understand tester approach/scope/challenges before commiting in a sprint.
+```
+
 ## What we do in Bug Bash ?
 
 ```
