@@ -1,4 +1,4 @@
-# TestProcess
+# Test Process
 - Test Process
 
 <img src="TestProcess.png" width="900" />
@@ -26,9 +26,9 @@ In software development, a bug bash is a procedure where all the developers, tes
 
 ```
 Bug triage is a process where tracker issues are screened and prioritised. Triage should help ensure we appropriately manage all reported issues - bugs as well as improvements and feature 
-
-Bug Triage is a  meeting scheduled by QA, where QA will represent all the bugs together with PO and developer and have a discussion what needs to be fix or not ?
 ```
+- Bug Triage is a  meeting scheduled by QA, where QA will represent all the bugs together with PO and developer and have a discussion what needs to be fix or not ?
+
 
 ## Why do team have Test Plan ?
 ```
@@ -37,7 +37,7 @@ Test Plan helps team to analysing the high level scope, approach and risks on pr
 ## Why do team have Minimum Acceptance Criteria ?
 
  ```
- 1. Minimum Acceptance Criteria helps team to pre-check conditions that a software product must satisfy to be accepted before handing over a new build to QA .
+  Minimum Acceptance Criteria helps team to pre-check conditions that a software product must satisfy to be accepted before handing over a new build to QA .
 ```
 ## Why do team have Impacted Area ?
 
