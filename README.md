@@ -1,6 +1,6 @@
 # Test Process
 Test Process
-<img src="TestProcess.png" width="900" />
+<img src="Test.png" width="900" />
 
 ## why do we include tester in planning phase
 ```
