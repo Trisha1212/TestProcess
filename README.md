@@ -55,4 +55,20 @@ Impacted Area helps team to figure out risks and shorten the scope of testing in
 ```
 RCA is a practice to predicated on the belief that problems are best solved by attempting to correct or eliminate root causes by addressing obvious symptoms . By directing corrective measures at root causes, it is hoped that the likelihood of problem reoccurrence will be minimised.
 ```
+## Why do team have Dog Fooding ?
 
+```
+Eating your own dog food, also called dog fooding, occurs when an organization uses its own product. This can be a way for an organization to test its products in real-world usage. 
+```
+
+## Why do team have Online Monitoring ?
+```
+         1. Being Critical
+
+         2. Being Safe
+
+         3. Being accessible, Being Protective , Being Accurate and committed
+
+        4. Being Trustable
+
+```
