@@ -133,6 +133,6 @@ Diagram of cost of finding bugs in later phase :
 - Critical to metrics shared to team
 - Have some learning
 - Loss confidence
-<img src="comparingTechniques.jpg" width="900" />
+<img src="comparingTechniques .jpg" width="900" />
 
 
