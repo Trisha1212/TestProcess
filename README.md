@@ -3,6 +3,10 @@ Test Statergy
 
 <img src="Test.png" width="900" />
 
+<br />
+<br />
+<br />
+<br />
 
 ## Why do we include tester in planning phase
 ```
@@ -79,6 +83,10 @@ Eating your own dog food, also called dog fooding, occurs when an organization u
 
 
 <br />
+<br />
+<br />
+<br />
+
 
 
 
@@ -130,6 +138,10 @@ Risks : No
 Outcomes: Team aware of issues faster rather than customer complaining (Team aware first)
 ```
 <br />
+<br />
+<br />
+<br />
+
 
 ## Cost of finding bugs
 Diagram of cost of finding bugs in later phase : 
