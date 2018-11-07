@@ -1,4 +1,4 @@
-# Test Process
+# Test Stratergy
 Test Process
 <img src="Test.png" width="900" />
 
