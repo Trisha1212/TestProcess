@@ -1,5 +1,6 @@
 # Test Stratergy
-Test Process
+Test Statergy
+
 <img src="Test.png" width="900" />
 
 ## why do we include tester in planning phase
@@ -73,6 +74,11 @@ Eating your own dog food, also called dog fooding, occurs when an organization u
 
 ```
 
+
+
+
+
+
 ## Business Outcome : Tester is involved in all phase during SDLC/release cycle that being true agile team
 
 - Planning Phase
@@ -105,7 +111,6 @@ Outcomes: QA spends time on the area of their expertise: whole system testing. B
 ```
 
 - UAT :
-
 ```
 Agile team certify the build is stable and having Dog fooding reduce further risks
 ```
@@ -114,7 +119,6 @@ Business Goals : End user to test in UAT environment and provide feedback.
 Risks : No
 Outcomes:  Reduce last minute surprise at production and align with business/customer expectation(Early customer feedback)
 ```
-
 - Production :
 ```
 Monitoring in production 
