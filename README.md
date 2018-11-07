@@ -3,7 +3,7 @@ Test Statergy
 
 <img src="Test.png" width="900" />
 
-## why do we include tester in planning phase
+## Why do we include tester in planning phase
 ```
 Including tester in planning phase will help to understand about the project/user-story and plan there test activities early and share to team about there approach/scope/chaalenges. 
 ```
@@ -99,7 +99,6 @@ Business goals: Faster development and delivery of the new features, cost of the
 Risks:  Developer is not skilled in testing, can miss bugs. Risk is mitigated by point #1 - where QA is defining MAC and thus developer knows everything about what to test.
 Outcomes: Bugs are identified faster and fixed right away. QA is learning behavior of new feature because they are involved in story development having a walkthroughs sessions with Dev & PO . Better teamwork.
 ```
-
 - QA Environment 
 ```
 QA is accountable for verifying that the existing functionality works for release (regression and overall system testing).
@@ -109,7 +108,6 @@ Business goals: faster time to market. Less rework/retest circles. Higher softwa
 Risks: No
 Outcomes: QA spends time on the area of their expertise: whole system testing. Better team morale.
 ```
-
 - UAT :
 ```
 Agile team certify the build is stable and having Dog fooding reduce further risks
