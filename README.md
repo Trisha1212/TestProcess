@@ -1,5 +1,8 @@
+
 # Test Stratergy
 Test Statergy
+
+- I appreciate the help of *Anna Royzman* for explaning me business outcome
 
 <img src="Test.png" width="900" />
 
