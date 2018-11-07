@@ -2,7 +2,7 @@
 # Test Stratergy
 Test Statergy
 
-- I appreciate the help of *Anna Royzman* for explaning me business outcome
+- I appreciate the help of **Anna Royzman** for pairing and explaning me business outcome throughout building the stratergy.
 
 <img src="Test.png" width="900" />
 
