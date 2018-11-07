@@ -126,3 +126,13 @@ Business Goals : Being safe and trustable
 Risks : No 
 Outcomes: Team aware of issues faster rather than customer complaining (Team aware first)
 ```
+
+## Cost of finding bugs
+Diagram of cost of finding bugs in later phase : 
+
+- Critical to metrics shared to team
+- Have some learning
+- Loss confidence
+<img src="comparingTechniques.jpg" width="900" />
+
+
