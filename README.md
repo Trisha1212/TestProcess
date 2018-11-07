@@ -72,3 +72,55 @@ Eating your own dog food, also called dog fooding, occurs when an organization u
         4. Being Trustable
 
 ```
+
+## Business Outcome : Tester is involved in all phase during SDLC/release cycle that being true agile team
+
+- Planning Phase
+```
+QA is participating in writing and driving Acceptance Criteria for the new story
+```
+```
+Business Goals:  Faster time to market, right feature is delivered to customer.
+Risks : No
+Outcome : As tester involved from starting phase there is reduce chance for later feedback from tester and rework and it saves cost / time / resources. (Prevention is better than a cure)
+```
+- Developer Environment:
+```
+During active development phase, QA is pairing with developer for the pair testing activity (bugs are discovered and fixed without extra paperwork)
+```
+```
+Business goals: Faster development and delivery of the new features, cost of the bug fix is minimal (refer to bug fix costs diagrams). Running MAC in developer environment is good practice where tester is not reworking on blocker/show stopper issue.
+Risks:  Developer is not skilled in testing, can miss bugs. Risk is mitigated by point #1 - where QA is defining MAC and thus developer knows everything about what to test.
+Outcomes: Bugs are identified faster and fixed right away. QA is learning behavior of new feature because they are involved in story development having a walkthroughs sessions with Dev & PO . Better teamwork.
+```
+
+- QA Environment 
+```
+QA is accountable for verifying that the existing functionality works for release (regression and overall system testing).
+```
+```
+Business goals: faster time to market. Less rework/retest circles. Higher software quality.
+Risks: No
+Outcomes: QA spends time on the area of their expertise: whole system testing. Better team morale.
+```
+
+- UAT :
+
+```
+Agile team certify the build is stable and having Dog fooding reduce further risks
+```
+```
+Business Goals : End user to test in UAT environment and provide feedback.
+Risks : No
+Outcomes:  Reduce last minute surprise at production and align with business/customer expectation(Early customer feedback)
+```
+
+- Production :
+```
+Monitoring in production 
+```
+```
+Business Goals : Being safe and trustable
+Risks : No 
+Outcomes: Team aware of issues faster rather than customer complaining (Team aware first)
+```
