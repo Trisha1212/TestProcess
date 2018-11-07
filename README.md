@@ -90,7 +90,7 @@ Eating your own dog food, also called dog fooding, occurs when an organization u
 
 
 
-## Business Outcome : Tester is involved in all phase during SDLC/release cycle that being true agile team
+## Business Outcome : Tester is involved in all phase during SDLC/release cycle that reflects team is being true agile team
 
 - Planning Phase
 ```
