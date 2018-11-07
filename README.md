@@ -3,6 +3,7 @@ Test Statergy
 
 <img src="Test.png" width="900" />
 
+
 ## Why do we include tester in planning phase
 ```
 Including tester in planning phase will help to understand about the project/user-story and plan there test activities early and share to team about there approach/scope/chaalenges. 
@@ -77,6 +78,8 @@ Eating your own dog food, also called dog fooding, occurs when an organization u
 
 
 
+<br />
+
 
 
 ## Business Outcome : Tester is involved in all phase during SDLC/release cycle that being true agile team
@@ -126,6 +129,7 @@ Business Goals : Being safe and trustable
 Risks : No 
 Outcomes: Team aware of issues faster rather than customer complaining (Team aware first)
 ```
+<br />
 
 ## Cost of finding bugs
 Diagram of cost of finding bugs in later phase : 
