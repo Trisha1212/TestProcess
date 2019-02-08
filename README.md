@@ -4,7 +4,7 @@ Test Statergy
 
 - I sincerely appreciate the help of **Anna Royzman** for pairing and explaning me business outcome throughout building the stratergy. She is awesome person who paired me with and understand your emotions and giving right suggestion that works.
 
-<img src="test.jpg" width="900" />
+<img src="test.jpg" width="1020" />
 
 <br />
 <br />
