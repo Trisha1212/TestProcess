@@ -3,7 +3,7 @@
 Test Statergy
 
 - I sincerely appreciate the help of **Anna Royzman** for pairing and explaning me business outcome throughout building the stratergy. She is awesome person who paired me with and understand your emotions and giving right suggestion that works.
-![TestStratergy](test.jpg)
+!(test.jpg)
 
 <br />
 <br />
@@ -152,7 +152,7 @@ Diagram of cost of finding bugs in later phase :
 - Have some learning
 - Loss confidence
 
-![BugLifeCycle](comparingTechniques .jpg)
-<img src="comparingTechniques .jpg" width="900" />
+!(comparingTechniques .jpg)
+
 
 
