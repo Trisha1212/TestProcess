@@ -153,7 +153,7 @@ Diagram of cost of finding bugs in later phase :
 - Have some learning
 - Loss confidence
 
-    <img src="https://github.com/TrishaChetani/TestStatergy/blob/master/README.md" alt="test Statergy" />
+    <img src="https://raw.githubusercontent.com/TrishaChetani/TestStatergy/master/comparingTechniques .jpg" alt="test Statergy" />
 
 
 
